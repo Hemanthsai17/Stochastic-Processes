@@ -1,2 +1,3 @@
-# MDSC-301
-Stochastic Process R Lab
+# Stochastic Process R Lab
+MDSC-301
+
